@@ -20,7 +20,7 @@
  
   
 <h3 class="text-muted">⚡DataBases</h3>
-  ![Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  [![Badge](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
   
 - #🚀Frameworks
   [![Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)]
