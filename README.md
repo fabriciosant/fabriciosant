@@ -10,7 +10,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-dos-santos-siqueira/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabric.santos/?hl=pt-br)
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabricio.santos.37819959)
-
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
  
 - <h3 class="text-muted">👨‍💻Languages</h3>
 
@@ -41,4 +41,4 @@
   
 - <h3 class="text-muted">🤜🤛 Group</h3>
 
-  [![microsoft teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](#)
+  [![microsoft teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/l/invite/FAAR6gS4fcRjMyfGQ)
