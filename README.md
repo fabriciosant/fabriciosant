@@ -1,11 +1,11 @@
 - <h1 class="texte-muted">🌍 "Quanto mais eu sei, mais eu sou" 🧠</h1>
 
-- <h3 class="text-muted">Quem sou eu?</h3>
+- <h3 class="text-muted">⚙️ Quem sou eu?</h3>
   Hi, I am Fabricio Santos 👋 <br>
   Estudante de Analise e Desenvolvimento de Sistemas 🧑🎓<br>
   Estágiario Desenvolvedor 💼💻
 
-- <h3 class="text-muted">Como me encontrar?</h3>
+- <h3 class="text-muted">📍 Como me encontrar?</h3>
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-dos-santos-siqueira/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabric.santos/?hl=pt-br)
