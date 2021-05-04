@@ -1,9 +1,9 @@
   <h1 class="text-muted">Hey 👋</h1>  
 
-  <h3 class="text-muted">Quem sou eu?</h3>
-  Eu sou Fabricio Santos 
-  Estudante de Analise e Desenvolvimento de Sistemas 🧑🎓
-  Estágiario Desenvolvedor 💼💻
+- <h3 class="text-muted">Quem sou eu?</h3>
+-  Eu sou Fabricio Santos 
+-  Estudante de Analise e Desenvolvimento de Sistemas 🧑🎓
+-  Estágiario Desenvolvedor 💼💻
 
 - <h3 class="text-muted">Como me encontrar?</h3>
 
