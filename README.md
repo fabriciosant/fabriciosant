@@ -1,9 +1,8 @@
 - <h1 class="texte-muted">🌍 "Quanto mais eu sei, mais eu sou" 🧠</h1>
 
 - <h3 class="text-muted">⚙️ Quem sou eu?</h3>
-  Hi, I am Fabricio Santos 👋 <br>
-  Estudante de Analise e Desenvolvimento de Sistemas 🧑🎓<br>
-  Estágiario Desenvolvedor 💼💻
+  Olá, sou Fabricio Santos 👋 <br>
+  Formado em Analise e Desenvolvimento de Sistemas 🧑🎓<br>
 
 - <h3 class="text-muted">📍 Como me encontrar?</h3>
 
