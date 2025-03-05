@@ -11,7 +11,7 @@
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fabricio.santos.37819959)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
  
-- <h3 class="text-muted">👨‍💻Languages</h3>
+- <h3 class="text-muted">👨‍💻Linguagens</h3>
 
   [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
   [![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -27,7 +27,6 @@
   
 - <h3 class="text-muted">👨‍💻IDE</h3>
 
-  [![Badge](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
   [![Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
   
 - <h3 class="text-muted">⚡DataBases</h3>
@@ -38,6 +37,3 @@
 
   [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
   
-- <h3 class="text-muted">🤜🤛 Group</h3>
-
-  [![microsoft teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/l/invite/FAAR6gS4fcRjMyfGQ)
